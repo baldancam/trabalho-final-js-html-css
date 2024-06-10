@@ -43,8 +43,5 @@ O projeto será avaliado levando em consideração os seguintes critérios:
 - Qualidade do código, organização e boas práticas de desenvolvimento.
 - Apresentação e defesa do código durante a entrega.
   
-## Entrega
-
-O código fonte do projeto está disponível no repositório GitHub: link_do_repositório.
 
 Qualquer dúvida ou sugestão, entre em contato através do e-mail baldancam@gmail.com. Agradeço pela oportunidade de aprendizado proporcionada por esta atividade.
