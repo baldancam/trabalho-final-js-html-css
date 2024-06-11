@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
     function displayQuestions(index) {
         questionsList.innerHTML = '';
         if (questions[index]) {
-            questions[index].forEach((question, questionIndex) => {
+            questions[index].forEach((question) => {
                 const questionItem = document.createElement('div');
                 questionItem.classList.add('question-item');
                 questionItem.innerHTML = `
